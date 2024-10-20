@@ -103,4 +103,4 @@ The Domain Name System is a vital component of Internet infrastructure, and its 
 3. [DNSpionage and Sea Turtle Attacks](https://www.wired.com/)
 
 ## Part 2 
-[DNS Security: Figures Explanation](https://github.com/Karthikdude/DNS-Security-Figures/)
+ [DNS Security: Figures Explanation](https://github.com/Karthikdude/DNS-Security-Figures/)
